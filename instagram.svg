@@ -3,11 +3,11 @@
    enable-background="new 0 0 512 512"
    id="Layer_1"
    version="1.1"
-   viewBox="0 0 48 48"
+   viewBox="0 0 64 64"
    xml:space="preserve"
    sodipodi:docname="instagram.svg"
-   width="48"
-   height="48"
+   width="64"
+   height="64"
    inkscape:version="1.2 (1:1.2.1+202207142221+cd75a1ee6d)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -24,8 +24,8 @@
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
      inkscape:zoom="0.4609375"
-     inkscape:cx="41.220339"
-     inkscape:cy="257.08475"
+     inkscape:cx="-171.38983"
+     inkscape:cy="259.25424"
      inkscape:window-width="1848"
      inkscape:window-height="1136"
      inkscape:window-x="72"
@@ -33,7 +33,7 @@
      inkscape:window-maximized="1"
      inkscape:current-layer="Layer_1" /><g
      id="g4570"
-     transform="matrix(0.09375,0,0,0.09374676,0,-0.0160222)"><g
+     transform="matrix(0.09375,0,0,0.09374676,8,8.0016574)"><g
        id="Background_1_"><radialGradient
          cx="51.992401"
          cy="13.5086"
